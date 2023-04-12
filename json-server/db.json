@@ -5,7 +5,7 @@
       "name": "React Lake Campground",
       "image": "images/react-lake.jpg",
       "elevation": 1233,
-      "featured": false,
+      "featured": true,
       "description": "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers."
     },
     {
@@ -195,132 +195,12 @@
       "date": "2019-02-18T18:12Z"
     },
     {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:26.694Z",
+      "campsiteId": 0,
+      "rating": "2",
+      "author": "John",
+      "text": "the place was great!",
+      "date": "2021-01-08T17:11:55.027Z",
       "id": 20
-    },
-    {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:27.533Z",
-      "id": 21
-    },
-    {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:28.015Z",
-      "id": 22
-    },
-    {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:28.287Z",
-      "id": 23
-    },
-    {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:28.465Z",
-      "id": 24
-    },
-    {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:28.635Z",
-      "id": 25
-    },
-    {
-      "campsiteId": 3,
-      "rating": "1",
-      "author": "gregre",
-      "text": "gerger",
-      "date": "2020-06-19T21:56:28.792Z",
-      "id": 26
-    },
-    {
-      "campsiteId": 3,
-      "rating": "3",
-      "author": "htrht",
-      "text": "htrhtr",
-      "date": "2020-06-19T21:59:32.001Z",
-      "id": 27
-    },
-    {
-      "campsiteId": 3,
-      "rating": "3",
-      "author": "htrht",
-      "text": "htrhtr",
-      "date": "2020-06-19T21:59:32.635Z",
-      "id": 28
-    },
-    {
-      "campsiteId": 0,
-      "rating": "3",
-      "author": "hrthrtrthhrt",
-      "text": "htrhrththrthtrhrthrthrt",
-      "date": "2020-06-20T06:11:56.986Z",
-      "id": 29
-    },
-    {
-      "campsiteId": 0,
-      "rating": "3",
-      "author": "hrthrtrthhrt",
-      "text": "htrhrththrthtrhrthrthrt",
-      "date": "2020-06-20T06:11:57.787Z",
-      "id": 30
-    },
-    {
-      "campsiteId": 0,
-      "rating": "1",
-      "author": "gregre",
-      "text": "regregre",
-      "date": "2020-06-20T06:16:08.459Z",
-      "id": 31
-    },
-    {
-      "campsiteId": 0,
-      "rating": "1",
-      "author": "fwefwe",
-      "text": "fwefwe",
-      "date": "2020-06-20T07:03:46.879Z",
-      "id": 32
-    },
-    {
-      "campsiteId": 0,
-      "rating": "1",
-      "author": "fefew",
-      "text": "fefwe",
-      "date": "2020-06-20T07:04:13.447Z",
-      "id": 33
-    },
-    {
-      "campsiteId": 0,
-      "rating": "4",
-      "author": "gregre",
-      "text": "gre",
-      "date": "2020-06-20T14:06:16.890Z",
-      "id": 34
-    },
-    {
-      "campsiteId": 0,
-      "rating": "3",
-      "author": "grgerg",
-      "text": "gregregre",
-      "date": "2020-06-28T05:28:35.297Z",
-      "id": 35
     }
   ],
   "partners": [
@@ -349,7 +229,7 @@
       "id": 3,
       "name": "Node Outdoor Apparel",
       "image": "images/node-logo.png",
-      "featured": true,
+      "featured": false,
       "description": "From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered."
     }
   ],
